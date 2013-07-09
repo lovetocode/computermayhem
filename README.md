@@ -1,8 +1,8 @@
              OutLine for computer mayhem
 
 You are a digurntled office worker who cant take it anymore. You sit all day in front of your computer
-doing nothing and then you come home and sit in your computer until its time to go to be and do
-everything over again. And you are tired of it. The game takes place at the protagonists condo. You
+doing nothing and then you come home and sit in front of your computer until its time to go to bed and then
+do everything over again. And you are tired of it. The game takes place at the protagonists condo. You
 name is Alaina. 
 
 The Condo has five rooms: The bedroom, livingroom, bathroom, kitchen, gameroom
