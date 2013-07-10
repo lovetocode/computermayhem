@@ -18,15 +18,24 @@ def bedRoomThrow(throw_at_object):
 	elif throw_at_object == 't':
 		bedImpact()
 	elif throw_at_object == 'm':
-		mirrowImpact()
+		mirrorImpact()
 	else: 
 		die()
 def dresserImpact():
 	print("Hey, this is the dresser you got as a")
-	print("kid, you drop to your knees and weep.")
-	print("you, trhow your self on the bed and fall into")
-	print("a fitful sleep")
+	print(" kid, you drop to your knees and weep.")
+	print(" you, trhow your self on the bed and fall into")
+	print(" a fitful sleep")
 	
-
+def bedImpact():
+	print("Bam!!, Your bed took a direct hit.")
+	print(" and is now smashed into 200 pieces.")
+	print(" you scream and jump up and down.")
+	print(" yay.")
+	
+def mirrorImpact():
+	print(" How could you do that you hit a")
+	print(" Mirror you know that is seven years")
+	print(" of bad luck")
 	
 
