@@ -44,6 +44,24 @@ def bathroom():
 	print(" and a vanity")
 	print(" There is your shower and tub")
 	print(" combination. Which do you choose")
+	print("t = toilet, v = vanity, s = shower")
 	choice = input("<")
+
+def bathroomThrow():
+	if choice == "t":
+		toilet()
+	if choice == "v":
+		vanity()
+	if chice == "s":
+		shower()
+
+def toilet():
+	print("you hit the toilet and now")
+	print(" There is porcelain all over the place")
+	print(" You are sad because the toilet was expensive")
+	print(" Though it was cathartic to hit something and")
+	print(" see it smash into pieces, yes")
+	print(" You start to feel better")
+
 	
 
