@@ -16,7 +16,7 @@ def bedRoomThrow(throw_at_object):
 	if throw_at_object == 'd':
 		dresserImpact()
 	elif throw_at_object == 't':
-		bedImpact()
+		bedImpact() 
 	elif throw_at_object == 'm':
 		mirrorImpact()
 	else: 
@@ -37,5 +37,13 @@ def mirrorImpact():
 	print(" How could you do that you hit a")
 	print(" Mirror you know that is seven years")
 	print(" of bad luck")
+
+def bathroom():
+	print("You walk into the room and take a look around the room")
+	print(" you see a toilet")
+	print(" and a vanity")
+	print(" There is your shower and tub")
+	print(" combination. Which do you choose")
+	choice = input("<")
 	
 
