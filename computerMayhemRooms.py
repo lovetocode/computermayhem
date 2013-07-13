@@ -62,6 +62,12 @@ def toilet():
 	print(" Though it was cathartic to hit something and")
 	print(" see it smash into pieces, yes")
 	print(" You start to feel better")
+	
+def vanity():
+	print("How could you ever think of ever hitting your own vanity.")
+	print(" you paid good more for it. You were in a fit of rage")
+	print(" so you are forgiven. The vanity bursts into tiny pieces")
+	print(" good for you.")
 
 	
 
