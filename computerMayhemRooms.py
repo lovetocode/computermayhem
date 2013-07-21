@@ -68,6 +68,12 @@ def vanity():
 	print(" you paid good more for it. You were in a fit of rage")
 	print(" so you are forgiven. The vanity bursts into tiny pieces")
 	print(" good for you.")
+	
+def shower():
+	print("Bam, it's a direct hit on the shower.")
+	print(" shower tiles go everywhere.")
+	print(" its a mess. You, feel great. You will")
+	print(" not be able to take a showr for awhile")
 
 	
 
