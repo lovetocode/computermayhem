@@ -74,6 +74,17 @@ def shower():
 	print(" shower tiles go everywhere.")
 	print(" its a mess. You, feel great. You will")
 	print(" not be able to take a showr for awhile")
+	
+def livingRoom():
+	print("Good for you, you chose the livingroom")
+	print(" You have a couch")
+	print(" A big screen tv")
+	print(" You know you want to hit the fireplace")
+	print(" Come on don't hit the pear bear rug.")
+	print(" c for couch, T for tv, f for fireplace, r for rug")
+	
+
+	
 
 	
 
