@@ -47,7 +47,7 @@ def bathroom():
 	print("t = toilet, v = vanity, s = shower")
 	choice = input("<")
 
-def bathroomThrow():
+def bathroomThrow(choice):
 	if choice == "t":
 		toilet()
 	if choice == "v":
@@ -81,7 +81,22 @@ def livingRoom():
 	print(" A big screen tv")
 	print(" You know you want to hit the fireplace")
 	print(" Come on don't hit the pear bear rug.")
-	print(" c for couch, T for tv, f for fireplace, r for rug")
+	print(" c for couch, t for tv, f for fireplace, r for rug")
+	choiceL = input("<")
+	
+def livingRoomThrow(choiceL):
+	if choiceL = 'c':
+		couch()
+	if choiceL = "t":
+		television()
+	if choiceL = 'f':
+		fireplace()
+	if choiceL = 'r':
+		rug()
+
+def couch():
+	print("Oh, no you hit your nice couch.")
+	print(" shame on you. You are happy now.")
 	
 
 	
