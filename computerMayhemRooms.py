@@ -85,13 +85,13 @@ def livingRoom():
 	choiceL = input("<")
 	
 def livingRoomThrow(choiceL):
-	if choiceL = 'c':
+	if choiceL == 'c':
 		couch()
-	if choiceL = "t":
+	if choiceL == "t":
 		television()
-	if choiceL = 'f':
+	if choiceL == 'f':
 		fireplace()
-	if choiceL = 'r':
+	if choiceL == 'r':
 		rug()
 
 def couch():
@@ -110,6 +110,17 @@ def fireplace():
 def rug():
 	print("What were you thinking throwing your laptop ")
 	print("on a rug. It did shatter though.")
+	
+def kitchen():
+	print("You look straight ahead and you see the ")
+	print("kitchen cupboards")
+	print("You look left and you see you table")
+	print("At right is the kitchen island")
+	print("Also straight ahead is your sink")
+	print("pres c = cupboards, t = table, i = island, s = sink")
+	choiceK = input("<")
+	
+
 
 	
 

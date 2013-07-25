@@ -12,17 +12,17 @@ Toilet - low flow
 A vanity 
 A shower bath tub combination
 
-The Bedroom: 
+The Bedroom: = done
 A Bed - queen size with headboard
-A mirron on a wall in front of a dresser
+A mirron on a wall in front of a dresser 
 
-livingroom: 
+livingroom: = done
 couch - 3 cushion
 big screen television
 fireplace
-bear rug
+bear rug 
 
-kitchen:
+kitchen: = working on
 cupboards
 sink
 island
