@@ -98,6 +98,18 @@ def couch():
 	print("Oh, no you hit your nice couch.")
 	print(" shame on you. You are happy now.")
 	
+def television():
+	print("How could you destroy your big screen. ")
+	print("now what will you do when your favoite ")
+	print("shows are on. Go to your neighbors.")
+	
+def fireplace():
+	print("Your fireplace was it and now you have released ")
+	print("toxic smoke into the atmosphere. How selfish.")
+	
+def rug():
+	print("What were you thinking throwing your laptop ")
+	print("on a rug. It did shatter though.")
 
 	
 
