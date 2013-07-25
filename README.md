@@ -28,7 +28,7 @@ sink
 island
 table
 
-gameroo:
+gameroo: = I will implement in another version
 pinball machine
 big screen television hooked up to a gameconsole
 exercise bike

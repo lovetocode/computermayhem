@@ -42,13 +42,13 @@ def selectRoom(whichRoom):
 		print("bedroom")
 		computerMayhemRooms.bedRoom()
 	elif whichRoom == 'l':
-		living_room()
+		computerMayhemRooms.livingRoom()
 	elif whichRoom == 'a':
-		bath_room
+		computerMayhemRooms.bathRoom()
 	elif whichRoom == 'k':
-		kitchen()
+		computerMayhemRooms.kitchen()
 	elif whichRoom == 'g':
-		game_room
+		computerMayhemRooms.gameRoom()
 	else:
 		print('you have reached the end')
 condo()
