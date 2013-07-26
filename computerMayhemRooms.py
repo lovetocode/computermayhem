@@ -125,7 +125,32 @@ def kitchen():
 	
 def kitchenThrow(choiceK):
 	if choiceK == 'c':
-		
+		cupboards()
+	if choiceK == 't'
+		table()
+	if choiceK == 'i'
+		island()
+	if choiceK == 's'
+		sink()
+
+def cupboards():
+	print("Hey, you are thrown your computer at antique wood.")
+	print(" How dare you, but, they are yours so I can't tell you.")
+	print(" What to do.")
+	
+def table():
+	print("Your laptop smashes into pieces and your table is unharmed")
+	print("To bad.")
+
+def island():
+	print("Taking your anger out on the kitchen island ")
+	print(" You built with your own hands, thats a no no.")
+
+def sink():
+	print("Plastic hitting stainless steel. How did you. ")
+	print("ever think that would do any damage.")
+	print(" The laptop is eaten by the garbage disposal. ")
+	print("You loose.")
 	
 	
 	
