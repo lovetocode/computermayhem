@@ -31,7 +31,7 @@ def condo():
 	print('L) livingroom', end=" ")
 	print('a) bathroom', end=" ")
 	print('k) kitchen', end=" ")
-	print('g) game room')
+	#print('g) game room')
 	selectARoom = input('>')
 	selectRoom(selectARoom)
 	
@@ -47,8 +47,8 @@ def selectRoom(whichRoom):
 		computerMayhemRooms.bathRoom()
 	elif whichRoom == 'k':
 		computerMayhemRooms.kitchen()
-	elif whichRoom == 'g':
-		computerMayhemRooms.gameRoom()
+	#elif whichRoom == 'g':
+		#computerMayhemRooms.gameRoom()
 	else:
 		print('you have reached the end')
 condo()

@@ -22,13 +22,13 @@ big screen television
 fireplace
 bear rug 
 
-kitchen: = working on
+kitchen: = Done
 cupboards
 sink
 island
 table
 
-gameroo: = I will implement in another version
+gameroom: = I will implement in another version
 pinball machine
 big screen television hooked up to a gameconsole
 exercise bike

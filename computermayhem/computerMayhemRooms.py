@@ -152,16 +152,9 @@ def sink():
 	print(" The laptop is eaten by the garbage disposal. ")
 	print("You loose.")
 	
-def island():
-	print("The prep sink in the island contains a fire breathing ")
-	print("dragon. You are now dead. Game over" )
+# end of the first version of the game
 	
-def table():
-	print(" No, not your mothers antique table that she gave you for an ")
-	print(" engagement present. For your information you never married, yet")
-	print(" you collapse in tears and cry yourself to sleep. What have you ")
-	print(" done. You monster. You reconsider the value of destroying your house")
-	print("game over")
+
 	
 	
 	
