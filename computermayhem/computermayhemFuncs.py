@@ -54,7 +54,7 @@ def selectRoom(whichRoom):
 		#computerMayhemRooms.gameRoom()
 	else:
 		print('Invalid selection please select 1=5, thank you.')
-		#end()
+		end()
 condo()
 
 		
