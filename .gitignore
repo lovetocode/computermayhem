@@ -1,3 +1,4 @@
 *.rb
- *.pyc
- 
+ *.PYC
+ __pycache__/
+ git
