@@ -29,11 +29,11 @@ def condo():
 	print('You race home in your sports car. To your')
 	print('fancy new condo to do some damage to your Electronics')
 	print('Where do you want to go')
-	print("b) bedroom")
-	print('2) livingroom')
-	print('3) bathroom' )
-	print('4) kitchen')
-	print('5) game room')
+	print("bd) bedroom")
+	print('l) livingroom')
+	print('b) bathroom' )
+	print('k) kitchen')
+	#print('g) game room')
 	selectARoom = input('>')
 	selectRoom(selectARoom)
 	
@@ -42,19 +42,19 @@ def condo():
 	
 
 def selectRoom(whichRoom):
-	if whichRoom == 1:
+	if whichRoom == 'bd':
 		computerMayhemRooms.bedRoom()
-	elif whichRoom == 2:
+	elif whichRoom == 'l':
 		computerMayhemRooms.livingRoom()
-	elif whichRoom == 3:
+	elif whichRoom == 'b':
 		computerMayhemRooms.bathRoom()
-	elif whichRoom == 4:
+	elif whichRoom == 'k':
 		computerMayhemRooms.kitchen()
-	elif whichRoom == 5:
-		computerMayhemRooms.gameRoom()
+	#elif whichRoom == 5:
+		#computerMayhemRooms.gameRoom()
 	else:
 		print('Invalid selection please select 1=5, thank you.')
-		end()
+		#end()
 condo()
 
 		
