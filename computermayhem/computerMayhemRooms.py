@@ -1,6 +1,8 @@
+
 def die():
 	print("You should not be here, something is wrong with")
 	print('my code. Sorry, you get what you pay for.')
+	
 
 def bedRoom():
 	print('You storm off to your bedroom.')
@@ -27,6 +29,7 @@ def dresserImpact():
 	print(" kid, you drop to your knees and weep.")
 	print(" you, trhow your self on the bed and fall into")
 	print(" a fitful sleep")
+
 	
 def bedImpact():
 	print("Bam!!, Your bed took a direct hit.")
@@ -64,6 +67,7 @@ def toilet():
 	print(" Though it was cathartic to hit something and")
 	print(" see it smash into pieces, yes")
 	print(" You start to feel better")
+	end()
 	
 def vanity():
 	print("How could you ever think of ever hitting your own vanity.")
