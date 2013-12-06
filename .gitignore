@@ -1,4 +1,3 @@
-*.rb
- *.PYC
+*.pyc
  __pycache__/
  
